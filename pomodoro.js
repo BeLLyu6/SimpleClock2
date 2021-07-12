@@ -14,6 +14,8 @@
     
     // //1000ミリ秒毎にcont_down関数を呼び出す
     // stp = setInterval(count_down,1000);
+
+    //GitHubテスト用にコメント追加してみた
  
     //カウンドダウン表示
    function min_count_down(){
